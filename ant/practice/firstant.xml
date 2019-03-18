@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding="UTF-8" ?>
+<project default="target1">
+	<target name="target1">
+		<echo message = "Hello world!!!" />
+		<mkdir dir="newDirectory" />
+	</target>
+</project>
